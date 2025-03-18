@@ -17,5 +17,11 @@
     "chai-http": "^4.3.0",
     "mocha": "^10.2.0",
     "supertest": "^6.3.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/your-repo.git"
+  },
+  "license": "MIT"
+
 }
