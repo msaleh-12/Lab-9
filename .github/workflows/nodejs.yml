@@ -16,4 +16,4 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-        run: node test.js
+      - run: node test.js
